@@ -1,0 +1,12 @@
+.streamer {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.video_frame {
+    width: 600px;
+    border: none;
+    border-radius: 20px;
+}

@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  height: 96vh;
+}
+
+.App>div:nth-child(2) {
+  width: 100%;
+  height: 100vh;
+}
